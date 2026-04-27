@@ -1,0 +1,5 @@
+project_id                        = "proj-dev-aicoe-synapse"
+region                            = "us-central1"
+location                          = "us-central1"
+conversation_profile_display_name = "syn_aa_dev_buyer_chat_profile"
+data_store_location               = "projects/proj-dev-aicoe-synapse/locations/us-central1/agents/syn-aa-dev-buyer-data-store-agent"
